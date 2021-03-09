@@ -234,19 +234,19 @@ body {
     letter-spacing: 1px;
 }
 .hello{
-    top: 80rem;
+    top: 60rem;
     max-width: 800px;
     margin: 0 auto;
 }
 img{
-    margin-top: 80rem;
+    margin-top: 60rem;
 }
 
 
 .develop{
     margin: 0 auto;
     position: relative;
-    top: 90rem;
+    top: 65rem;
     text-align: center;
     width: 100%;
     color:aliceblue;
